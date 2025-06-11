@@ -16,3 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![avatar.png](assets/images/avatar.png)
 https://github.com/iamsanju123/card_connect/blob/46ec605cbcc765b5b689beb926446f485bfabca1/avatar.png
+
+//Screenshot//
+
+https://github.com/iamsanju123/card_connect/blob/a28f252dc9105f454c45b1d7a241c4ddd2acf6e7/screenshot_card_connect.jpeg
